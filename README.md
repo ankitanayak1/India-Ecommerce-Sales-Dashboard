@@ -1,4 +1,4 @@
-# India-Ecommerce-Sales-Dashboard
+# Pattel-Ecommerce-Sales-Dashboard
 
 Welcome to the Ecommerce Sales Dashboard project!
 
